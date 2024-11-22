@@ -7,7 +7,7 @@ environment:
   sdk: ">=2.19.0 <3.0.0"
 
 dependencies:
-  collection: ^1.18.0
+  collection: ^1.17.0
   json_annotation: ^4.1.0
   logging: ^1.2.0
 
